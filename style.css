@@ -1,0 +1,17 @@
+body {
+    background-image: url(books_texture3018.jpg);
+}
+
+p {
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 30px;
+}
+
+.buttonArrow {
+    margin-left: 500px;
+}
+
+.buttonArrow2 {
+    margin-left: 400px;
+}
